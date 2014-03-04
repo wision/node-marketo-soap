@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/uris77/node-marketo-soap.git"
+    "url": "git://github.com/Spantree/node-marketo-soap.git"
   },
   "keywords": [
     "Node",
@@ -18,9 +18,9 @@
   "author": "Roberto Guerra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uris77/node-marketo-soap/issues"
+    "url": "https://github.com/Spantree/node-marketo-soap/issues"
   },
-  "homepage": "https://github.com/uris77/node-marketo-soap",
+  "homepage": "https://github.com/Spantree/node-marketo-soap",
   "dependencies": {
     "soap": "~0.4.0"
   }
