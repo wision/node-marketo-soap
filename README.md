@@ -3,7 +3,7 @@ node-marketo-soap
 
 SOAP Module for Marketo's API
 
-## Insall:
+## Install:
 ```bash
 npm install node-marketo-soap
 ```
