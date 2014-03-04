@@ -1,0 +1,24 @@
+{
+  "name": "node-marketo-soap",
+  "version": "0.0.1",
+  "description": "Node Module that interfaces with Marketo's SOAP API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uris77/node-marketo-soap.git"
+  },
+  "keywords": [
+    "Node",
+    "Marketo",
+    "SOAP"
+  ],
+  "author": "Roberto Guerra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uris77/node-marketo-soap/issues"
+  },
+  "homepage": "https://github.com/uris77/node-marketo-soap"
+}
