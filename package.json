@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/uris77/node-marketo-soap/issues"
   },
-  "homepage": "https://github.com/uris77/node-marketo-soap"
+  "homepage": "https://github.com/uris77/node-marketo-soap",
+  "dependencies": {
+    "soap": "~0.4.0"
+  }
 }
