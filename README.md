@@ -3,6 +3,11 @@ node-marketo-soap
 
 SOAP Module for Marketo's API
 
+## Insall:
+```bash
+npm install node-marketo-soap
+```
+
 This is a simple wrapper around [node-soap](http://github.com/vpulim/soap) that is compatible with Marketo's SOAP API.
 
 ## Usage
