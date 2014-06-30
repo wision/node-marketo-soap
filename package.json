@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Spantree/node-marketo-soap",
   "dependencies": {
-    "soap": "~0.4.0"
+    "soap": "git+http://github.com/wision/node-soap.git"
   }
 }
